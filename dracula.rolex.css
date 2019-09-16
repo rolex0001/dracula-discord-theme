@@ -12,7 +12,7 @@
     --link-color: #ad5cf9; /* color of all links */
     --link-color-hover: #ad5cf9; /* color of all links while hovering over them */
     --tag-color: #fff; /* text color of tags (bot tags and custom) */
-    --tag-bg: rgba(255, 0, 0, 0.3); /* background of tags (bot tags and custom) */
+    --tag-bg: #ad5cf9; /* background of tags (bot tags and custom) */
     --popup-background: #222; /* background of modals, confirmation messages etc. */
     --popup-highlight: #333; /* color of headers and footers of "popouts" (linked to above) */
     --context-menu-bg: #333; /* color of context (right-click) menus. */
