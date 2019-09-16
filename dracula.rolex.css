@@ -19,11 +19,7 @@
     --unread-color: #ad5cf9; /* color of unread/selected server indicators. */
 }
 
-/* nitrofag badge */
-.profileBadgePremium-3kZ9Qj, .topSectionNormal-2-vo2m .profileBadgePremium-3kZ9Qj,
-.profileBadgePremium-3kZ9Qj, .topSectionPlaying-1J5E4n .profileBadgePremium-3kZ9Qj {
-    
-}
+
 
 /* unread indicators */
 .theme-dark .unread-2OHH1w:not(.selected-nT-gM3):before {
