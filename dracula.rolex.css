@@ -3,7 +3,7 @@
 /* theme settings */
 :root {
     /* background for the entire window. Almost everything is transparent to this image. */
-    --bg: url(https://i.imgur.com/5KPD94g.png);
+    --bg: url(https://i.imgur.com/CXUisi7.jpg);
     --bg-overlay: rgba(0, 0, 0, 0.8); /* overlay for the background. Generally, this should darken the picture to make text more readable. */
     --accent-color: #ad5cf9; /* color of buttons, misc. text, etc. */
     --mention-color: #ad5cf9; /* color of mention text */
