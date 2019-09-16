@@ -4,7 +4,7 @@ A Discord theme based on dracula's themes .
 
 Screenshots :
 ![Screenshot 1](https://i.imgur.com/djTsY9K.png)
-https://i.imgur.com/Ti4Wm1D.png
+![Screenshot 2](https://i.imgur.com/Ti4Wm1D.png)
 
 Inspired From : https://draculatheme.com/
 
