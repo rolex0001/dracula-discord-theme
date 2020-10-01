@@ -5,18 +5,18 @@
     /* background for the entire window. Almost everything is transparent to this image. */
     --bg: url(https://i.imgur.com/CXUisi7.jpg);
     --bg-overlay: rgba(0, 0, 0, 0.8); /* overlay for the background. Generally, this should darken the picture to make text more readable. */
-    --accent-color: #ad5cf9; /* color of buttons, misc. text, etc. */
-    --mention-color: #ad5cf9; /* color of mention text */
+    --accent-color: #AA99FF; /* color of buttons, misc. text, etc. */
+    --mention-color: #AA99FF; /* color of mention text */
     --mention-bg: rgba(255, 0, 0, 0.15); /* mention background color */
     --mention-bgh: rgba(255, 0, 0, 0.4); /* mention backgroung while hovering over it */
-    --link-color: #ad5cf9; /* color of all links */
-    --link-color-hover: #ad5cf9; /* color of all links while hovering over them */
+    --link-color: #AA99FF; /* color of all links */
+    --link-color-hover: #AA99FF; /* color of all links while hovering over them */
     --tag-color: #fff; /* text color of tags (bot tags and custom) */
-    --tag-bg: #ad5cf9; /* background of tags (bot tags and custom) */
+    --tag-bg: #AA99FF; /* background of tags (bot tags and custom) */
     --popup-background: #222; /* background of modals, confirmation messages etc. */
     --popup-highlight: #333; /* color of headers and footers of "popouts" (linked to above) */
     --context-menu-bg: #333; /* color of context (right-click) menus. */
-    --unread-color: #ad5cf9; /* color of unread/selected server indicators. */
+    --unread-color: #AA99FF; /* color of unread/selected server indicators. */
 }
 
 
